@@ -44,3 +44,27 @@ thead {
 }
 
 /* Fine CSS per la tabella  */
+
+
+/* Ultime due immagini background */
+#img1 {
+    height: 200px;
+    width: 250px;
+    color: white;
+    
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#img2 {
+    height: 200px;
+    width: 250px;
+    color: white;
+    
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

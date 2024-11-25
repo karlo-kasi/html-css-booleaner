@@ -12,8 +12,26 @@
        
 }
 
+
+
+/* Background giallo per i paragrafi */
+
 .yellow-background {
     background-color: yellow;
+}
+
+
+
+
+
+/* Inzio CSS per la tabella  */
+
+table {
+    border-collapse: collapse;
+}
+
+.td12 {
+    width: 25%;
 }
 
 thead {
@@ -24,3 +42,5 @@ thead {
 .riga1-2 {
     background-color: #B1E5F2;
 }
+
+/* Fine CSS per la tabella  */

@@ -5,22 +5,25 @@
     margin: 0 auto;
 } */
 
-
+/* inizo header  */
 .container1 {
     background-image: url(/img/pattern.png);
-
-    background-size: 30%;
     background-color: #4EA0FF;
     background-size: cover;
-
-       
+    background-size: 20%;   
 }
-
 
 .img-logo {
     width: 15%;
     height: 15%;
     padding-top: 50px;
+}
+/* fine header */
+
+#headline {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .photo-description {
@@ -30,7 +33,7 @@
     color: grey;
 }
 
-.class {
+.scritta-grigia {
     color: grey;
 }
 

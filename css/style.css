@@ -1,7 +1,7 @@
 
 
 .body-container {
-    width: 70%;
+    width: 60%;
     margin: 0 auto;
 }
 
@@ -9,9 +9,9 @@
 .container1 {
     background-image: url(/img/pattern.png);
     background-color: #4EA0FF;
+       
+}
 
-    
-
-    
-    
+.yellow-background {
+    background-color: yellow;
 }

@@ -79,11 +79,13 @@ thead {
 /* Fine CSS per la tabella  */
 
 
-/* Ultime due immagini background */
+/* Inzio ultime due immagini background */
 #img1 {
     height: 200px;
     width: 250px;
     color: white;
+    padding-top: 10px;
+    padding-left: 5px;
     
     background-image: url(../img/monitor.jpg);
     background-size: cover;
@@ -95,9 +97,12 @@ thead {
     height: 200px;
     width: 250px;
     color: white;
+    padding-top: 10px;
+    padding-left: 5px;
     
     background-image: url(../img/graph.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
+/* Fine ultime due immagini background */

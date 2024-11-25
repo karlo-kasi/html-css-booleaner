@@ -1,9 +1,6 @@
 
 
-/* .main-container {
-    width: 80%;
-    margin: 0 auto;
-} */
+
 
 /* inizo header  */
 .container1 {
@@ -20,6 +17,16 @@
 }
 /* fine header */
 
+
+/* Centrare il main al 80% */
+#main {
+    width: 80%;
+    margin: 0 auto;
+}
+/* Fine Centrare il main al 80% */
+
+
+/* Inizio modifiche main */
 #headline {
     box-sizing: border-box;
     margin: 0px;
@@ -45,16 +52,7 @@
 #scritta {
     color: #4EA0FF;
 }
-
-
-/* Background giallo per i paragrafi */
-
-.yellow-background {
-    background-color: yellow;
-}
-
-
-
+/* Fine modifiche main */
 
 
 /* Inzio CSS per la tabella  */
